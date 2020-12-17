@@ -6,7 +6,7 @@ Implementations of W-ARHMM (STCS 6701 Final Project)
 ## Overview
 #### Code structure
 ``` Unicode
-Automated-BERT-Regularization
+w-arhmm
   │
   └─── w-arhmm.py: Implementations of single-state/multi-state W-ARHMM
 ```
