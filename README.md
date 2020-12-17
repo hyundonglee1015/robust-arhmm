@@ -1,4 +1,5 @@
-Window-Autoregressive Hidden Markov Model (W-ARHMM)
+Window-Autoregressive Hidden Markov Model 
+(W-ARHMM)
 ===
 
 Implementations of W-ARHMM (STCS 6701 Final Project)
